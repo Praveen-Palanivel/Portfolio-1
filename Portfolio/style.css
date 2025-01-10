@@ -1,0 +1,46 @@
+.rouge-script-regular {
+    font-family: "Rouge Script", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.tinos-bold {
+    font-family: "Tinos", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.nav-bar {
+    background-color: #FF9E3D;
+}
+
+.port {
+    color: aliceblue;
+}
+
+.nav {
+    color: #00FFFF;
+    gap: 30px;
+}
+
+.logo {
+    padding-left: 15px;
+    width: 40px;
+    margin: 0 10px;
+}
+
+.container.content {
+    width: auto;
+    height: 60vh;
+    margin-top: 80px;
+}
+
+.footer {
+    background-color: #FF9E3D;
+    height: 100px;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
